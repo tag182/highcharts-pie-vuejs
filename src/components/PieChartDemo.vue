@@ -80,7 +80,7 @@ export default {
           type: "pie"
         },
         title: {
-          text: "<p style='font-size:4vw;'> total <br>" +this.total + "</p>",
+          text: "<p style='font-size:40pt;'> total <br>" +this.total + "</p>",
           align: 'center',
           verticalAlign: 'middle',
        
