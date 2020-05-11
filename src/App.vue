@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" style="width:800px; overflow-x: auto;">
     <highcharts-demo></highcharts-demo>
   </div>
 </template>
